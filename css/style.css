@@ -1,0 +1,57 @@
+h1{
+   font-weight: 900;
+   font-size: 46px;
+   color:pink;
+   margin-bottom: 15px;
+}
+.content{
+   font-size: 26px;
+   color:red;
+   font-weight: 700;
+}
+
+.decor{
+font-size: 26px;
+color: green;
+font-weight: 700;
+}
+
+.icons{
+font-size: 26px;
+color: blue;
+
+font-weight: 700;
+}
+
+.convert{
+   font-weight: 900;
+   font-size: 46px;
+   color:darkviolet;
+   margin-bottom: 15px;
+}
+
+.png_image{
+   opacity: 0.5;
+
+}
+
+.rastr, .vector{
+font-weight: 700;
+font-size: 30px;
+color:deeppink;
+margin-bottom: 20px;
+}
+
+h3{
+font-weight: 700;
+   font-size: 28px;
+   color:lightcoral;
+   margin-bottom: 20px;
+}
+
+h4{
+
+      font-size: 20px;
+      color:midnightblue;
+      margin-bottom: 20px;
+}
