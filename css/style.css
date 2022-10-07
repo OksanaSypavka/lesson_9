@@ -1,3 +1,7 @@
+body {
+   font-family: Lato, sans-serif;
+   color: #424551;
+}
 h1{
    font-weight: 900;
    font-size: 46px;
